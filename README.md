@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository is the canonical source for REST API specifications for Microsoft Azure
+This repository is the canonical source for REST API specifications for Microsoft Azure.
 
 ## News
 
